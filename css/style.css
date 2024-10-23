@@ -61,11 +61,49 @@ h1{
 main {
   background-image: url("../img/zelda-bg_pattern_brown.png");
 }
+
 #deuxieme-page{
   color: white;
 }
 h2{
   color: white;
+  display: flex;
+  justify-content: center;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.premier-paragraphe{
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 15px;
+  
+}
+
+
+span{
+  color: yellow;
+  padding-left: 5px;
+}
+
+#parti2{
+  
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+
+  
+}
+#azerty{
+  width: 30%;
+  text-align: center;
+  padding-left: 100px;
+  
 }
 
 /* @font-face {
